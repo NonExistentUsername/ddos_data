@@ -12,3 +12,9 @@ https://130.193.36.55/
 http://130.193.36.55/
 https://api.boxberry.ru/
 http://api.boxberry.ru/
+https://185.165.123.228/
+http://185.165.123.228/
+https://188.130.235.84/
+http://188.130.235.84/
+https://lk.boxberry.ru/
+http://lk.boxberry.ru/
