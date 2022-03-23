@@ -1,11 +1,6 @@
-https://etpgpb.ru
-https://api.etpgpb.ru
-https://etp.gpb.ru
-https://passport.etpgpb.ru
-https://gos.etpgpb.ru
-https://inter-rao.etpgpb.ru
-https://rosnedra.etpgpb.ru
-https://gpn.etpgpb.ru
-https://geh.etpgpb.ru
-https://trade.etpgpb.ru
-https://gb.etpgpb.ru
+https://boxberry.ru/
+http://boxberry.ru/
+https://185.165.123.58/
+http://185.165.123.58/
+https://178.154.196.210/
+http://178.154.196.210/
