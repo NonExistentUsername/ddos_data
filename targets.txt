@@ -18,3 +18,7 @@ https://188.130.235.84/
 http://188.130.235.84/
 https://lk.boxberry.ru/
 http://lk.boxberry.ru/
+https://185.93.111.122/
+http://185.93.111.122/
+https://service.boxberry.ru/
+http://service.boxberry.ru/
